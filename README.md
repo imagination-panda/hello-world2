@@ -1,2 +1,4 @@
 # hello-world2
-test pract
+test practice
+
+Created to utilized the robinhood API 
